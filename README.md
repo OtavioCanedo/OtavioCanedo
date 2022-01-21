@@ -1,4 +1,4 @@
-## Olá! Sou o Otávio Canedo, estou no 3º período de Ciência da Computação e estou focado em Desenvolvimento Web
+## Olá! Sou o Otávio Canedo, estou no 3º período de Ciência da Computação, focado em Desenvolvimento Web
 <!--
 - 🔭 Hoje trabalho com React
 - 🌱 Atualmente estou estudando React
