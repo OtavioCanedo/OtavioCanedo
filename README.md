@@ -1,8 +1,8 @@
 ## Olá! Sou o Otávio Canedo
 <!--
 - 🔭 Hoje trabalho com React
--->
 - 🌱 Atualmente estou estudando React
+-->
 
 <div>
   <a href="https://github.com/OtavioCanedo">
