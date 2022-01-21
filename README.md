@@ -10,7 +10,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCanedo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-##  
+## Linguagens que conheço
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Canedo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
