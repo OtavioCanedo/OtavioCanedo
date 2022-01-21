@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/OtavioCanedo">
-  <img height="200em" width="420em" src="https://github-readme-stats.vercel.app/api?username=OtavioCanedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="420em" src="https://github-readme-stats.vercel.app/api?username=OtavioCanedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCanedo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
