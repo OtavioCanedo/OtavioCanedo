@@ -2,7 +2,7 @@
 
 - 🎓 Cursando Ciência da Computação, 3º período
 - 💻 Focado em Desenvolvimento Web
-- 📘 Estudando React
+<!-- - 📘 Estudando React -->
 
 <div>
   <a href="https://github.com/OtavioCanedo">
