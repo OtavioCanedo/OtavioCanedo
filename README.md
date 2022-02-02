@@ -1,7 +1,7 @@
 ## Olá! Sou o Otávio Canedo
 
-- 🎓 Cursando Ciência da Computação, 3º período
-- 💻 Focado em Desenvolvimento Web
+- 🎓 Cursando 3º período de Ciência da Computação
+- 💻 Fazendo estágio de Desenvolvimento Web
 <!-- - 📘 Estudando React -->
 
 <div>
