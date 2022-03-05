@@ -19,7 +19,7 @@
   <img align="center" cursor="default" alt="Canedo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
-## 
+## Contato
   
 <div>
   <a href="mailto:otavionevescoc@hotmail.com"><img height="35em" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
