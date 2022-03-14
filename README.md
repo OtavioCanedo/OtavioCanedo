@@ -1,4 +1,4 @@
-## Olá! Sou o Otávio Canedo
+## <center>Olá! Sou o Otávio Canedo</center>
 
 - 🎓 Cursando 3º período de Ciência da Computação
 - 💻 Fazendo estágio de Desenvolvimento Web
