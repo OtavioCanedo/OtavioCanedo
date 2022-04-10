@@ -1,7 +1,7 @@
 ## Olá! Sou o Otávio Canedo 
 
 - 🎓 Cursando 3º período de Ciência da Computação
-- 💻 Fazendo estágio de Desenvolvimento Web
+- 💻 Fazendo estágio de Desenvolvimento Web, usando a stack MERN (Mongo DB, Express, React e Node)
 
 <div>
   <a href="https://github.com/OtavioCanedo">
@@ -16,7 +16,7 @@
   <img align="center" alt="Canedo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Canedo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Canedo-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" cursor="default" alt="Canedo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Canedo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
 ## Contato
