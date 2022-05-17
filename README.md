@@ -19,7 +19,7 @@
   <img align="center" alt="Canedo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
-## Contato
+## LinkedIn
   
 <div>
   <a href="https://www.linkedin.com/in/otavio-canedo-235267b3/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
