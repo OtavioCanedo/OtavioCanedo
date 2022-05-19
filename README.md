@@ -19,8 +19,9 @@
   <img align="center" alt="Canedo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
-## LinkedIn
+## Contato
   
 <div>
+  <a href = "mailto:otaviocanedodev@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/otavio-canedo-235267b3/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
