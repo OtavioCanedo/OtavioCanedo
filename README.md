@@ -1,8 +1,8 @@
 ## Olá! Sou o Otávio Canedo 
 
 - 🎓 Cursando 4º período de Ciência da Computação
-- 💻 Estudando para me tornar um Desenvolvedor Web
-- Realizei um estágio durante 5 meses de desenvolvimento web, utilizando React.js, Node.js, Express e arquitetura RESTful
+- 💻 Realizei um estágio durante 5 meses de desenvolvimento web, utilizando React.js, Node.js, Express e arquitetura RESTful
+
 
 <div>
   <a href="https://github.com/OtavioCanedo">
