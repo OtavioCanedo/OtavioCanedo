@@ -1,6 +1,6 @@
 ## Olá! Sou o Otávio Canedo 
 
-- 🎓 Cursando 4º período de Ciência da Computação
+- 🎓 Cursando 5º período de Ciência da Computação na PUC MG
 - 💻 Realizei um estágio durante 5 meses de desenvolvimento web, utilizando React.js, Node.js, Express e arquitetura RESTful
 
 
