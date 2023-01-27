@@ -1,7 +1,10 @@
-## Olá! Sou o Otávio Canedo 
+# Olá! Me chamo Otávio Canedo 👋
+### Seja bem vindo ao meu perfil no Github
 
-- 🎓 Cursando 5º período de Ciência da Computação na PUC MG
-- 💻 Realizei um estágio durante 5 meses de desenvolvimento web, utilizando React.js, Node.js, Express e arquitetura RESTful
+- 🎓 Estudante de Ciência da Computação na PUC MG, atualmente estou no 5º período.
+- 💻 Possuo experiência de 5 meses em Desenvolvimento Web, onde utilizei diversas tecnologias, como React.js, Next.js, Material UI, HTML5, CSS3, JavaScript, Node.js, Express, RESTful API, versionamento de código com Git e Github e SCRUM com Jira.
+- ⚛ Tenho mais conhecimento no Front-end, utilizando React.js, HTML5, CSS3 e JavaScript, tecnologias que utilizei nos repositórios postados aqui.
+- 📘 Além dessas tecnologias, comecei a estudar Java e Python na faculdade, além de banco de dados MySQL.
 
 
 <div>
@@ -10,7 +13,7 @@
   <img height="167em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioCanedo&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
-## Tecnologias
+## Ferramentas e Tecnologias
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Canedo-Reactjs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -31,6 +34,7 @@
 ## Contato
   
 <div>
-  <a href = "mailto:otaviocanedodev@outlook.com"><img height="35em" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/otavio-canedo-235267b3/" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href ="mailto:otaviocanedodev@outlook.com"><img height="35em" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/otaviocanedo" target="_blank"><img height="35em" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://docs.google.com/document/d/e/2PACX-1vQXe7pTLYrm9hgTDQsOWzKoR59wsPc5DC2BvPY4I_4e0nAcGH3-XC3coING0gbxTw/pub" target="_blank"><img height="35em" src="https://img.shields.io/badge/-Curriculo-%230077B5?style=for-the-badge&logo=curriculo&logoColor=white" target="_blank"></a>
 </div>
