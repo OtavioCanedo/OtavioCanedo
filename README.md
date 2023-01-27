@@ -1,5 +1,5 @@
 # Olá! Me chamo Otávio Canedo 👋
-### Seja bem vindo ao meu perfil no Github
+## Seja bem vindo ao meu perfil no Github
 
 - 🎓 Estudante de Ciência da Computação na PUC MG, atualmente estou no 5º período.
 - 💻 Possuo experiência de 5 meses em Desenvolvimento Web, onde utilizei diversas tecnologias, como React.js, Next.js, Material UI, HTML5, CSS3, JavaScript, Node.js, Express, RESTful API, versionamento de código com Git e Github e SCRUM com Jira.
