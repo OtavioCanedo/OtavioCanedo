@@ -2,7 +2,8 @@
 ## Seja bem vindo ao meu perfil no Github
 
 - 🎓 Estudante de Ciência da Computação na PUC MG, atualmente estou no 5º período.
-- 💻 Possuo experiência de 5 meses em Desenvolvimento Web, onde utilizei diversas tecnologias, como React.js, Next.js, Material UI, HTML5, CSS3, JavaScript, Node.js, Express, RESTful API, versionamento de código com Git e Github e SCRUM com Jira.
+- Trabalhando como estagiário em Desenvolvimento Web, no Grupo SOITIC, utilizando React.js, Typescript, Material UI, Vitejs.
+- 💻 Experiência de 5 meses em Desenvolvimento Web, onde utilizei diversas tecnologias, como React.js, Next.js, Material UI, HTML5, CSS3, JavaScript, Node.js, Express, RESTful API, versionamento de código com Git e Github e SCRUM com Jira.
 - ⚛ Tenho mais conhecimento no Front-end, utilizando React.js, HTML5, CSS3 e JavaScript, tecnologias que utilizei nos repositórios postados aqui.
 - 📘 Além dessas tecnologias, comecei a estudar Java e Python na faculdade, além de banco de dados MySQL.
 
