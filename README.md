@@ -1,7 +1,7 @@
 # Olá! Me chamo Otávio Canedo 👋
 ## Seja bem vindo ao meu perfil no Github
 
-- 🎓 Bacharel em Ciência da Computação na PUC MG.
+- 🎓 Bacharel em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais.
 - Trabalhando como Desenvoldedor Frontend, no Grupo SOITIC, desde abril de 2023, utilizando Next.js, Typescript, Tailwind, React Native, Expo.
 - 💻 Experiência profissional de 2 anos em Desenvolvimento Web, onde utilizei diversas tecnologias, como Next.js, Typescript, Tailwind.css, Expo, React Native, Material UI, versionamento de código com Git e Github e SCRUM com Jira.
 
