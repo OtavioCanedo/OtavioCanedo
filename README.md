@@ -2,7 +2,7 @@
 ## Seja bem vindo ao meu perfil no Github
 
 - 🎓 Bacharel em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais.
-- Trabalhando como Desenvoldedor Frontend, no Grupo SOITIC, desde abril de 2023, utilizando Next.js, Typescript, Tailwind, React Native, Expo.
+- Trabalhando como Analista de Desenvolvimento, na PUC Minas, desde março de 2025.
 - 💻 Experiência profissional de 2 anos em Desenvolvimento Web, onde utilizei diversas tecnologias, como Next.js, Typescript, Tailwind.css, Expo, React Native, Material UI, versionamento de código com Git e Github e SCRUM com Jira.
 
 <div>
