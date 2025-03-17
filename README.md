@@ -3,7 +3,7 @@
 
 - 🎓 Bacharel em Ciência da Computação pela Pontifícia Universidade Católica de Minas Gerais.
 - Trabalhando como Analista de Desenvolvimento, na PUC Minas, desde março de 2025.
-- 💻 Experiência profissional de 2 anos em Desenvolvimento Web, onde utilizei diversas tecnologias, como Next.js, Typescript, Tailwind.css, Expo, React Native, Material UI, versionamento de código com Git e Github e SCRUM com Jira.
+- 💻 Experiência profissional de 2 anos em Desenvolvimento Web, onde utilizei diversas tecnologias, como Next.js, Typescript, Tailwind.css, Shadcn UI, Material UI, e também tenho conhecimentos em Desenvolvimento Mobile, com React Native e Expo, além de versionamento de código com Git e Github e SCRUM com Jira.
 
 <div>
   <a href="https://github.com/OtavioCanedo">
